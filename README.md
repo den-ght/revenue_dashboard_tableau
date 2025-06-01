@@ -51,7 +51,7 @@ _Data Analytics Student | SQL Enthusiast_
 
 ---
 
-## 🪪 License
+## ✅ License
 This project is open-source and free to use under the MIT license.
 
 ---
