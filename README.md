@@ -35,7 +35,10 @@ The dashboard consolidates core insights and is structured into three main analy
 
 ## 🌐 Interactive Dashboard
 You can explore the published interactive version here:
-👉 [View on Tableau Public](https://public.tableau.com/views/Zadanie_6-1/Dashboard3)
+
+👉 [View interactive dashboard on Tableau Public](https://public.tableau.com/views/Zadanie_6-1/Dashboard3)
+
+![Dashboard Screenshot](dashboard_3.png)
 
 ---
 
