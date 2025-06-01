@@ -45,10 +45,9 @@ You can explore the published interactive version here:
 
 ---
 
-## 👤 Author
+## 🧠 Author
 **Denys Aralov**  
-Data Analyst | Tableau Enthusiast  
-📍 Łódź, Poland
+_Data Analytics Student | SQL Enthusiast_
 
 ---
 
